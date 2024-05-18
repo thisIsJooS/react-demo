@@ -46,17 +46,4 @@ ul {
     padding-left: 20px;
 }
 
-body {
-    padding: 5px
-}
-label {
-    display: block;
-    margin-top: 5px;
-    margin-bottom: 5px;
-}
-th {
-    padding: 4px;
-}
-td {
-    padding: 2px;
-}
+img { margin: 0 10px 10px 0; height: 90px; }
