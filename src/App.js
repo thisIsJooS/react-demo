@@ -1,8 +1,7 @@
-import StopWatch from "./components/StopWatch/StopWatch";
-
+import CatFriends from "./components/ElementScroll/ElementScroll";
 
 export default function App() {
     return (
-        <StopWatch></StopWatch>
+        <CatFriends></CatFriends>
     );
 }
