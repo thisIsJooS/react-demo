@@ -1,8 +1,8 @@
-import Gallery from './components/Gallery/Gallery.js';
-import Profile from './components/Gallery/Profile.js';
+import StopWatch from "./components/StopWatch/StopWatch";
+
 
 export default function App() {
     return (
-        <Profile />
+        <StopWatch></StopWatch>
     );
 }

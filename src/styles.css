@@ -46,4 +46,6 @@ ul {
     padding-left: 20px;
 }
 
-img { margin: 0 10px 10px 0; height: 90px; }
+button { margin: 5px; }
+li { list-style-type: none; }
+ul, li { margin: 0; padding: 0; }
